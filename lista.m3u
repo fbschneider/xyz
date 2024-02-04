@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="Canais Abertos",Band SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png",Sbt serra durada
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png",Band SP
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Canais Abertos",Record Brasilia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png",Record Brasilia
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/426/62/png-transparent-tv-globo-de-sao-paulo-ltda-rede-globo-television-grupo-globo-globonews-robocop-miscellaneous-television-heroes.png" group-title="Canais Abertos",Globo Maringa
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/426/62/png-transparent-tv-globo-de-sao-paulo-ltda-rede-globo-television-grupo-globo-globonews-robocop-miscellaneous-television-heroes.png",Globo Maringa
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/426/62/png-transparent-tv-globo-de-sao-paulo-ltda-rede-globo-television-grupo-globo-globonews-robocop-miscellaneous-television-heroes.png" group-title="Canais Abertos",Globo Campinas HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/426/62/png-transparent-tv-globo-de-sao-paulo-ltda-rede-globo-television-grupo-globo-globonews-robocop-miscellaneous-television-heroes.png",Globo Campinas HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
