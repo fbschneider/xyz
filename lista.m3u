@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-globo-logo-42785714CF-seeklogo.com.png",Globo rpc maringa
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-globo-logo-42785714CF-seeklogo.com.png" group-title="Canais Abertos",Globo rpc maringa
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-globo-logo-42785714CF-seeklogo.com.png",Globo minas 4K
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-globo-logo-42785714CF-seeklogo.com.png" group-title="Canais Abertos",Globo minas 4K
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-globo-logo-42785714CF-seeklogo.com.png",Globo eptv campinas HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-globo-logo-42785714CF-seeklogo.com.png" group-title="Canais Abertos",Globo eptv campinas HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png",Sbt serra durada
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",Sbt serra durada
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png",SBT 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png",Record brasilia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Canais Abertos",Record brasilia
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png",Record df
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Canais Abertos",Record df
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/40
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png",Record bahia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Canais Abertos",Record bahia
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png",Band sp
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="Canais Abertos",Band sp
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png",Band minas 4k
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="Canais Abertos",Band minas 4k
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
