@@ -432,6 +432,33 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 
 
 ##Canais Esportes##
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
+http://177.128.113.8:1/play/a0ak
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
+https://cr7v.short.gy/manotv/SporTVSD/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV FHD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV 4K
+http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/183.ts
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais Esportes",SporTV 2 FHD
+http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais Esportes",SporTV 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
+
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais Esportes",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
@@ -447,20 +474,17 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais Esportes",FOX Sports 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
-
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="Canais Esportes",OFF HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais Esportes",COMBATE
 http://209.222.97.92:16493/
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Canais Esportes",Combate HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais Esportes",UFC Fightpass
+http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/bellator-mma-logo-0-1536x1536.png" group-title="Canais Esportes", Bellator MMA HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -468,17 +492,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="Canais Esportes", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Premiere_TV-logo-FD5C8C064A-seeklogo.com.gif" group-title="Canais Esportes",Premiere clubes 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Premiere_TV-logo-FD5C8C064A-seeklogo.com.gif" group-title="Canais Esportes",Premiere 4 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="Canais Esportes",Espn 1 HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Canais Esportes",Combate HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20230809T053511SQUARE.png_20230809053512.png" group-title="Canais Esportes",FIFA PLUS
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
@@ -495,31 +510,31 @@ https://i.mjh.nz/PlutoTV/63dac28760bc8f0008a7654b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="Canais Esportes",POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere Clubes
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere Clubes
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 1
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 1
 http://208.115.225.174:14460/
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 2
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 2
 http://208.115.225.174:14464/
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 3
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 3
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 4
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 4
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/508
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 5
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 5
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 6
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 6
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 7
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 7
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Premiere",Premiere 8
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais Esportes",Premiere 8
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais Esportes",Premiere 3 HD
@@ -531,29 +546,11 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais Esportes",Premiere 5 HD
 http://185.150.190.225:16476/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
-https://cr7v.short.gy/manotv/SporTVSD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Premiere_TV-logo-FD5C8C064A-seeklogo.com.gif" group-title="Canais Esportes",Premiere clubes 4K
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV HD
-https://cr7v.short.gy/manotv/SporTV-HD/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV FHD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV 4K
-http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/183.ts
-
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais Esportes",SporTV 2 FHD
-http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
-
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais Esportes",SporTV 3 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais Esportes",ESPN HD
-https://cr7v.short.gy/manotv/ESPN/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais Esportes",ESPN 4K
-http://94.130.165.243:14515/
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Premiere_TV-logo-FD5C8C064A-seeklogo.com.gif" group-title="Canais Esportes",Premiere 4 4K
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais Esportes",ESPN 2 HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
@@ -575,42 +572,6 @@ http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Esportes",ESPN 4 FHD [Alter]
 http://51.83.238.223:16575/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais Esportes",UFC Fightpass
-http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais Esportes",UFC Fightpass HD
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
-http://177.128.113.8:1/play/a0ak
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV HD
-https://cr7v.short.gy/mano/SporTV-HD/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais Esportes",ESPN HD
-http://177.128.113.8:1/play/a07l
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais Esportes",ESPN 2 HD
-http://177.128.113.8:1/play/a07g
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais Esportes",ESPN 3 HD
-http://177.128.113.8:1/play/a081
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Esportes",ESPN 4 HD
-http://177.128.113.8:1/play/a08i
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Esportes",ESPN Extra HD
-http://177.128.113.8:1/play/a08v
-
-#EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-sky-sports-1-free-download-PNG.png" group-title="Canais Esportes",Sky Sports 1
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73125
-
-#EXTINF:-1 tvg-id="Sky Sports 2" tvg-logo="https://getlogo.net/wp-content/uploads/2020/04/sky-sports-2-logo-vector.png" group-title="Canais Esportes",Sky Sports 2
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73126
-
-#EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://seeklogo.com/images/S/SKY_sports-logo-7927A94612-seeklogo.com.png" group-title="Canais Esportes",Sky Sports 3
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73127
 ##Fim Canais Esportes##
 
  
