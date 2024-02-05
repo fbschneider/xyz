@@ -432,12 +432,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 
 
 ##Canais Esportes##
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="Canais Esportes",TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
-  
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="Canais Esportes",TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais Esportes",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
@@ -485,21 +479,6 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Canais Esportes",Combate HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
-
-#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Canais Esportes",TNT Sports 
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Canais Esportes",TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Canais Esportes",TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Canais Esportes",TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Canais Esportes",TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20230809T053511SQUARE.png_20230809053512.png" group-title="Canais Esportes",FIFA PLUS
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
