@@ -11,6 +11,21 @@ http://khtro2.com/live/69754975141604/526502448518/493844.ts
 
 ##Canais Abertos##
 ##Globo
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo SP HD
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo SP HD [Alter]
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo MG HD
+http://185.150.190.225:16263/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo RJ HD
+https://8mwx.short.gy/GLOBORJ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais Abertos",Globo ES HD
+http://200.194.238.229:8383/live/globosupernet/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo rpc maringa
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
@@ -28,21 +43,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2366
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo Juiz d Fora MG
 https://cr7v.short.gy/ManoTV/JuizdforaHD/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo MG HD
-http://185.150.190.225:16263/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo RJ HD
-https://8mwx.short.gy/GLOBORJ/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo SP HD
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo SP HD [Alter]
-http://hls1.sua.tv:80/live/globosphd/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais Abertos",Globo ES HD
-http://200.194.238.229:8383/live/globosupernet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h4PzuTy.png" group-title="Canais Abertos",Globo RPC Curitiba
 https://8mwx.short.gy/RPCPR/index.m3u8
