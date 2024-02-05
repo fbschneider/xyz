@@ -228,6 +228,9 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais Infantil",Discovery Kids HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
 
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais Infantil",DISCOVERY KIDS HD
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais Infantil",Tooncast HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
@@ -251,9 +254,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/375
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais Infantil",Cartoon Network HD
 http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais Infantil",DISCOVERY KIDS HD
-https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais Infantil",Zoomoo HD
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
