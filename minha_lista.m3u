@@ -192,19 +192,10 @@ https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?Man
 ##Fim Canais Abertos##
 
 ##Canais Infantil##
-#EXTINF:-1 tvg-id="CartoonNetworkLive.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="Canais Infantil",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkLive2.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="Canais Infantil",Cartoon Network HD
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais Infantil",CARTOONITO HD
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais Infantil",Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais Infantil",Nickelodeon SD
+#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais Infantil",Nickelodeon SD
 https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais Infantil",Nick Jr. HD
@@ -258,14 +249,8 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/375
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais Infantil",Cartoon Network HD
 http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais Infantil",Cartoon Network Live HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
-
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais Infantil",DISCOVERY KIDS HD
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais Infantil",DISCOVERY KIDS Live
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais Infantil",Zoomoo HD
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
