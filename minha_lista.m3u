@@ -407,12 +407,6 @@ http://177.128.113.8:1/play/a0ak
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
 https://cr7v.short.gy/manotv/SporTVSD/Index.m3u8
 
@@ -422,8 +416,17 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV 4K
 http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/183.ts
 
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV 1 HD
+http://191.97.14.38:4000/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais Esportes",SporTV 2 FHD
 http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais Esportes",SPORTV 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais Esportes",SporTV 3 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
