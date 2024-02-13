@@ -541,6 +541,17 @@ http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Esportes",ESPN 4 FHD [Alter]
 http://51.83.238.223:16575/
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV"  tvg-logo="https://i.imgur.com/pk0mCnK.png" group-title= "Canais Esportes",SPORTV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/183.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2"  tvg-logo="https://imgur.com/Px0LylM.png" group-title= "Canais Esportes",SPORTV 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/172.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3"  tvg-logo="https://i.imgur.com/etVB7RW.png" group-title= "Canais Esportes",SPORTV 3
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/175.ts?AFDTV
 ##Fim Canais Esportes##
 
  
