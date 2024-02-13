@@ -63,37 +63,37 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT SD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PE" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT SD
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
-#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT SP HD
+#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT PE" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT SP HD
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SBT INTERIOR SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT Interior SP HD
+#EXTINF:-1 tvg-id="SBT INTERIOR SP" tvg-name="SBT PE" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT Interior SP HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Canais Abertos",SBT Guajará
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT Guajará
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tyFtNYn.png" group-title="Canais Abertos",SBT BA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT BA HD
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT CIDADE VERDE FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT RS HD YT
+#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT RS HD YT
 https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",VTV SBT HD YT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",VTV SBT HD YT
 https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 
-#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT PARÁ HD YT
+#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT PARÁ HD YT
 https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais Abertos",SBT
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",SBT
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244166
 
 
@@ -125,14 +125,8 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais Abertos",Record Juara HD
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais Abertos",Record TV
+#EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais Abertos",Record TV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Canais Abertos",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Canais Abertos",Record News
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
 
 
 ##Band
@@ -151,18 +145,18 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
 #EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",Band RJ- N é 24h
 https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais Abertos",Band Arapuan SD
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",Band Arapuan SD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1286743219_b1631072.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais Abertos",Band Arapuan HD
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1904822114_b3715072.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/oTkOmnH.png" group-title="Canais Abertos",Band TV - Vale do Uruará SD
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",Band TV - Vale do Uruará SD
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais Abertos",Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",Band
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais Abertos",Band
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 ##Fim Canais Abertos##
