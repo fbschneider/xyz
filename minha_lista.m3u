@@ -541,17 +541,6 @@ http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Esportes",ESPN 4 FHD [Alter]
 http://51.83.238.223:16575/
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV"  tvg-logo="https://i.imgur.com/pk0mCnK.png" group-title= "Canais Esportes",SPORTV
-http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/183.ts?AFDTV
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2"  tvg-logo="https://imgur.com/Px0LylM.png" group-title= "Canais Esportes",SPORTV 2
-http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/172.ts?AFDTV
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3"  tvg-logo="https://i.imgur.com/etVB7RW.png" group-title= "Canais Esportes",SPORTV 3
-http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/175.ts?AFDTV
 ##Fim Canais Esportes##
 
  
@@ -1489,3 +1478,307 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovies.br" tvg-logo="https://i.imgur.com/7Nbnasm.png" group-title="Canais Cristãos",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ##Fim Canais Cristãos##
+
+
+## Canais para filtrar 1 ##
+#EXTINF:-1 tvg-id="" tvg-name="A&E"  tvg-logo="https://imgur.com/hjZD2jd.png" group-title= "📡🛰AFDTV",A&E
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/225.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM"  tvg-logo="https://imgur.com/x3UAguc.jpg" group-title= "📡🛰AFDTV",ADULT SWIM
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/541.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="AGRO+"  tvg-logo="https://imgur.com/Uv93pQQ.jpg" group-title= "📡🛰AFDTV",AGRO+
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/852.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="AMC"  tvg-logo="https://imgur.com/222Rdd4.png" group-title= "📡🛰AFDTV",AMC
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/228.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET"  tvg-logo="https://imgur.com/cg4TQNy.png" group-title= "📡🛰AFDTV",ANIMAL PLANET
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/61.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1"  tvg-logo="https://imgur.com/WAtIAns.png" group-title= "📡🛰AFDTV",ARTE 1
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN"  tvg-logo="https://imgur.com/jD2s5aW.png" group-title= "📡🛰AFDTV",AXN
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/233.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS"  tvg-logo="https://imgur.com/wzJTQsy.png" group-title= "📡🛰AFDTV",BAND NEWS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/482.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="BAND"  tvg-logo="https://i.imgur.com/uc4iOt0.png" group-title= "📡🛰AFDTV",BAND
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/484.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS"  tvg-logo="https://imgur.com/CxKtMbO.png" group-title= "📡🛰AFDTV",BAND SPORTS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/120.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="BIS"  tvg-logo="https://i.imgur.com/miy5Uvd.png" group-title= "📡🛰AFDTV",BIS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/419.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL AFDTV"  tvg-logo="https://imgur.com/EKiIaqQ.png" group-title= "📡🛰AFDTV",CANAL AFDTV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1252.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL"  tvg-logo="https://i.imgur.com/MGav2RQ.png" group-title= "📡🛰AFDTV",CANAL BRASIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/236.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI"  tvg-logo="https://imgur.com/JAkKCag.png" group-title= "📡🛰AFDTV",CANAL DO BOI
+http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/456?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA"  tvg-logo="https://i.imgur.com/9BEFCnQ.png" group-title= "📡🛰AFDTV",CANÇÃO NOVA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/96.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK"  tvg-logo="https://imgur.com/JzqHTE0.png" group-title= "📡🛰AFDTV",CARTOON NETWORK
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/346.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO"  tvg-logo="https://imgur.com/uvAriwo.png" group-title= "📡🛰AFDTV",CARTOONITO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/344.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CINEBRASIL"  tvg-logo="https://i.imgur.com/bzJgwGU.png" group-title= "📡🛰AFDTV",CINEBRASIL
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL"  tvg-logo="https://imgur.com/khmHPUs.png" group-title= "📡🛰AFDTV",CINECANAL
+http://dns.clientetv.net:8080/live/SulivanEsteves/Sulivan2021Se/62193.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX"  tvg-logo="https://imgur.com/dZGUTQX.png" group-title= "📡🛰AFDTV",CINEMAX
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLUBINHO FUN"  tvg-logo="https://i.imgur.com/HnHQR4H.png" group-title= "📡🛰AFDTV",CLUBINHO FUN
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL"  tvg-logo="https://imgur.com/eFQlzCX.png" group-title= "📡🛰AFDTV",CNN BRASIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/433.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CNT"  tvg-logo="https://i.imgur.com/MQtfxnG.png" group-title= "📡🛰AFDTV",CNT
+http://ucsxiptv.com:8080/live/nit_ad43yrert82cwejn434kf/340jfwof93w4rmfqmvc432r398u43mre1x/15804.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE"  tvg-logo="https://imgur.com/Swa1BjA.png" group-title= "📡🛰AFDTV",COMBATE
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/122.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL"  tvg-logo="https://imgur.com/nLrk7zV.png" group-title= "📡🛰AFDTV",COMEDY CENTRAL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/99.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="CURTA"  tvg-logo="https://i.imgur.com/k7mffK3.png" group-title= "📡🛰AFDTV",CURTA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/100.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL"  tvg-logo="https://i.imgur.com/FKMeMt9.png" group-title= "📡🛰AFDTV",DISCOVERY CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/65.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H"  tvg-logo="https://i.imgur.com/PxLTl7K.png" group-title= "📡🛰AFDTV",DISCOVERY H&H
+http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/465?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID"  tvg-logo="http://i.imgur.com/cJKZAWO.png" group-title= "📡🛰AFDTV",DISCOVERY ID
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/69.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"  tvg-logo="https://imgur.com/NmQ8XDs.png" group-title= "📡🛰AFDTV",DISCOVERY KIDS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/348.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE"  tvg-logo="https://i.imgur.com/ObEC9mI.png" group-title= "📡🛰AFDTV",DISCOVERY SCIENCE
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/71.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"  tvg-logo="https://imgur.com/QocrExz.png" group-title= "📡🛰AFDTV",DISCOVERY THEATER
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/73.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"  tvg-logo="http://cplog.xyz/discoveryturbo.png" group-title= "📡🛰AFDTV",DISCOVERY TURBO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/75.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD"  tvg-logo="https://imgur.com/oEhKeND.png" group-title= "📡🛰AFDTV",DISCOVERY WORLD
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/77.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL"  tvg-logo="https://imgur.com/lLx3drL.png" group-title= "📡🛰AFDTV",DISNEY CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/351.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV"  tvg-logo="https://i.imgur.com/sjOGofq.png" group-title= "📡🛰AFDTV",DOG TV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/879.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="E!"  tvg-logo="https://imgur.com/jUraQI4.png" group-title= "📡🛰AFDTV",E!
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/102.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ESPN"  tvg-logo="https://i.imgur.com/RmUPTOW.png" group-title= "📡🛰AFDTV",ESPN
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/130.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2"  tvg-logo="https://i.imgur.com/siJ8Bzj.png" group-title= "📡🛰AFDTV",ESPN 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/129.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3"  tvg-logo="https://i.imgur.com/g32eDO8.png" group-title= "📡🛰AFDTV",ESPN 3
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/127.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4"  tvg-logo="https://i.imgur.com/RiIym02.png" group-title= "📡🛰AFDTV",ESPN 4
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/142.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA"  tvg-logo="https://imgur.com/MNI6ECT.png" group-title= "📡🛰AFDTV",ESPN EXTRA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/133.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV"  tvg-logo="https://i.imgur.com/k3mbtiI.png" group-title= "📡🛰AFDTV",FASHION TV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/878.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS"  tvg-logo="https://imgur.com/SZ7ryJs.png" group-title= "📡🛰AFDTV",FILM & ARTS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/242.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV"  tvg-logo="https://imgur.com/9V6CuKa.png" group-title= "📡🛰AFDTV",FISH TV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/79.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK"  tvg-logo="https://imgur.com/FzSbRVc.png" group-title= "📡🛰AFDTV",FOOD NETWORK
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/104.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2"  tvg-logo="http://i.imgur.com/uUfDtus.png" group-title= "📡🛰AFDTV",FOX SPORTS 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/139.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA"  tvg-logo="https://i.imgur.com/lQXy6c1.png" group-title= "📡🛰AFDTV",FUTURA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/243.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="FX"  tvg-logo="https://imgur.com/qjVeJWG.png" group-title= "📡🛰AFDTV",FX
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/244.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="GE FAST"  tvg-logo="https://i.imgur.com/SY31PgU.png" group-title= "📡🛰AFDTV",GE FAST
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO"  tvg-logo="https://i.imgur.com/OH7Jp4j.png" group-title= "📡🛰AFDTV",GLOBO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/504.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS"  tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title= "📡🛰AFDTV",GLOBO NEWS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/498.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB"  tvg-logo="https://i.imgur.com/rD2QMcU.png" group-title= "📡🛰AFDTV",GLOOB
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/357.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO"  tvg-logo="https://i.imgur.com/EN98ihp.png" group-title= "📡🛰AFDTV",GLOOBINHO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/359.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="GNT"  tvg-logo="https://i.imgur.com/ym6W6Ep.png" group-title= "📡🛰AFDTV",GNT
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/107.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO+"  tvg-logo="http://cplog.xyz/hbo%2B.png" group-title= "📡🛰AFDTV",HBO+
+http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/245.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2"  tvg-logo="https://imgur.com/eCBgiEg.png" group-title= "📡🛰AFDTV",HBO 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/247.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO"  tvg-logo="https://imgur.com/e9olNk8.png" group-title= "📡🛰AFDTV",HBO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/251.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY"  tvg-logo="https://imgur.com/5jUBYcu.png" group-title= "📡🛰AFDTV",HBO FAMILY
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/252.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"  tvg-logo="http://cplog.xyz/hbomundi.png" group-title= "📡🛰AFDTV",HBO MUNDI
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/256.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"  tvg-logo="https://i.imgur.com/Gzz2ffH.png" group-title= "📡🛰AFDTV",HBO PLUS
+http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/42?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP"  tvg-logo="http://cplog.xyz/hbopop.png" group-title= "📡🛰AFDTV",HBO POP
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/260.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE"  tvg-logo="http://cplog.xyz/hbosignature.png" group-title= "📡🛰AFDTV",HBO SIGNATURE
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/264.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"  tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title= "📡🛰AFDTV",HBO XTREME
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/266.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV"  tvg-logo="https://imgur.com/gxDvLkf.png" group-title= "📡🛰AFDTV",HGTV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/816.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY"  tvg-logo="https://imgur.com/t7nrZSZ.png" group-title= "📡🛰AFDTV",HISTORY
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/83.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2"  tvg-logo="https://imgur.com/e9VcKNH.png" group-title= "📡🛰AFDTV",HISTORY 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/815.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="JP NEWS"  tvg-logo="https://i.imgur.com/hELohsa.png" group-title= "📡🛰AFDTV",JP NEWS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/847.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME"  tvg-logo="https://i.imgur.com/8B5NOgq.png" group-title= "📡🛰AFDTV",LIFETIME
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/269.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX"  tvg-logo="http://i.imgur.com/UTMyzRE.png" group-title= "📡🛰AFDTV",MEGAPIX
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/270.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM"  tvg-logo="https://i.imgur.com/EwBCYid.png" group-title= "📡🛰AFDTV",MODO VIAGEM
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/85.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV"  tvg-logo="https://i.imgur.com/sEaTVRM.png" group-title= "📡🛰AFDTV",MTV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/112.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00'S"  tvg-logo="https://i.imgur.com/kF8hi9I.png" group-title= "📡🛰AFDTV",MTV 00'S
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/831.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW"  tvg-logo="http://i.imgur.com/kQwiSJF.png" group-title= "📡🛰AFDTV",MULTISHOW
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/423.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX  BRAZIL"  tvg-logo="http://i.imgur.com/54YN6ku.png" group-title= "📡🛰AFDTV",MUSIC BOX  BRAZIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/424.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC"  tvg-logo="https://i.imgur.com/1dulpCa.png" group-title= "📡🛰AFDTV",NATIONAL GEOGRAPHIC
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/87.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR"  tvg-logo="https://i.imgur.com/gz6kU7g.png" group-title= "📡🛰AFDTV",NICK JR
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/363.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON"  tvg-logo="http://i.imgur.com/SDMtV91.png" group-title= "📡🛰AFDTV",NICKELODEON
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/365.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1"  tvg-logo="https://i.imgur.com/AVqjzaP.png" group-title= "📡🛰AFDTV",NOSSO FUTEBOL 1
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1131.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2"  tvg-logo="https://i.imgur.com/AVqjzaP.png" group-title= "📡🛰AFDTV",NOSSO FUTEBOL 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1132.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3"  tvg-logo="https://i.imgur.com/AVqjzaP.png" group-title= "📡🛰AFDTV",NOSSO FUTEBOL 3
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1133.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS"  tvg-logo="https://i.imgur.com/DWCFGJ3.png" group-title= "📡🛰AFDTV",NSPORTS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1068.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS"  tvg-logo="https://i.imgur.com/DWCFGJ3.png" group-title= "📡🛰AFDTV",NSPORTS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1069.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="OFF"  tvg-logo="https://i.imgur.com/ksFNvaE.png" group-title= "📡🛰AFDTV",OFF
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/273.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL"  tvg-logo="https://i.imgur.com/C6xM7cE.png" group-title= "📡🛰AFDTV",PARAMOUNT CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/275.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1"  tvg-logo="https://i.imgur.com/8rechgD.png" group-title= "📡🛰AFDTV",PARAMOUNT+ 1
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1151.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2"  tvg-logo="https://i.imgur.com/8rechgD.png" group-title= "📡🛰AFDTV",PARAMOUNT+ 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1152.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3"  tvg-logo="https://i.imgur.com/8rechgD.png" group-title= "📡🛰AFDTV",PARAMOUNT+ 3
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1153.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4"  tvg-logo="https://i.imgur.com/8rechgD.png" group-title= "📡🛰AFDTV",PARAMOUNT+ 4
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1154.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV"  tvg-logo="https://i.imgur.com/pDEuf4H.png" group-title= "📡🛰AFDTV",PLAY TV
+http://dns.p2.wtf/live/BrunoTi2/123654/69209.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2"  tvg-logo="https://imgur.com/bSP3e12.png" group-title= "📡🛰AFDTV",PREMIERE 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/149.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3"  tvg-logo="https://imgur.com/JoSmjQm.png" group-title= "📡🛰AFDTV",PREMIERE 3
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/153.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4"  tvg-logo="https://imgur.com/ydsNjoI.png" group-title= "📡🛰AFDTV",PREMIERE 4
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/155.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5"  tvg-logo="https://imgur.com/LXyeNhj.png" group-title= "📡🛰AFDTV",PREMIERE 5
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/157.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6"  tvg-logo="https://imgur.com/VVK4cLw.png" group-title= "📡🛰AFDTV",PREMIERE 6
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/159.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7"  tvg-logo="https://imgur.com/X3XYaL2.png" group-title= "📡🛰AFDTV",PREMIERE 7
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/161.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES"  tvg-logo="https://imgur.com/L2bG7At.png" group-title= "📡🛰AFDTV",PREMIERE CLUBES
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/165.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL"  tvg-logo="http://i.imgur.com/rH1dALR.png" group-title= "📡🛰AFDTV",PRIME BOX BRAZIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/277.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="RECORD"  tvg-logo="https://i.imgur.com/R97FDNd.png" group-title= "📡🛰AFDTV",RECORD
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/529.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS"  tvg-logo="https://i.imgur.com/kZkuBEB.png" group-title= "📡🛰AFDTV",RECORD NEWS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/451.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL"  tvg-logo="https://i.imgur.com/2IE2LWt.png" group-title= "📡🛰AFDTV",REDE BRASIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/531.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL"  tvg-logo="https://i.imgur.com/q3syYCL.png" group-title= "📡🛰AFDTV",REDE GOSPEL
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER"  tvg-logo="https://i.imgur.com/rwjduER.png" group-title= "📡🛰AFDTV",REDE SUPER
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1054.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="REDETV!"  tvg-logo="https://imgur.com/GY2XlZh.png" group-title= "📡🛰AFDTV",REDETV!
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/532.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA"  tvg-logo="https://i.imgur.com/d5sFNtG.png" group-title= "📡🛰AFDTV",REDE VIDA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/113.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE"  tvg-logo="https://i.imgur.com/3y3Xnyk.png" group-title= "📡🛰AFDTV",SABOR & ARTE
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/877.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SBT"  tvg-logo="http://i.imgur.com/XPRHraS.png" group-title= "📡🛰AFDTV",SBT
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/534.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL"  tvg-logo="https://i.imgur.com/fIaRW9n.png" group-title= "📡🛰AFDTV",SONY CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/238.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES"  tvg-logo="https://i.imgur.com/lOMOdaD.png" group-title= "📡🛰AFDTV",SONY MOVIES
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE"  tvg-logo="https://i.imgur.com/JoaLPXY.png" group-title= "📡🛰AFDTV",SPACE
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/278.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV"  tvg-logo="https://i.imgur.com/pk0mCnK.png" group-title= "📡🛰AFDTV",SPORTV
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/183.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2"  tvg-logo="https://imgur.com/Px0LylM.png" group-title= "📡🛰AFDTV",SPORTV 2
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/172.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3"  tvg-logo="https://i.imgur.com/etVB7RW.png" group-title= "📡🛰AFDTV",SPORTV 3
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/175.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL"  tvg-logo="https://imgur.com/BCgdhOG.png" group-title= "📡🛰AFDTV",STAR CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/281.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"  tvg-logo="https://imgur.com/p6HOGLO.png" group-title= "📡🛰AFDTV",STUDIO UNIVERSAL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/289.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TCM"  tvg-logo="https://i.imgur.com/q3fUBMd.png" group-title= "📡🛰AFDTV",TCM
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/292.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"  tvg-logo="https://imgur.com/qZikNhF.png" group-title= "📡🛰AFDTV",TELECINE ACTION
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/294.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT"  tvg-logo="https://imgur.com/SyPwIoY.png" group-title= "📡🛰AFDTV",TELECINE CULT
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/297.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN"  tvg-logo="https://imgur.com/ztAcZ2o.png" group-title= "📡🛰AFDTV",TELECINE FUN
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/300.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA"  tvg-logo="https://imgur.com/P1Py3AZ.png" group-title= "📡🛰AFDTV",TELECINE PIPOCA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/303.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM"  tvg-logo="https://imgur.com/9c7jHTQ.png" group-title= "📡🛰AFDTV",TELECINE PREMIUM
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/306.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH"  tvg-logo="https://imgur.com/lPH0SO4.png" group-title= "📡🛰AFDTV",TELECINE TOUCH
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/309.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TLC"  tvg-logo="https://i.imgur.com/1cTtKAA.png" group-title= "📡🛰AFDTV",TLC
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/91.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TNT"  tvg-logo="https://i.imgur.com/ojLqTCx.png" group-title= "📡🛰AFDTV",TNT
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/312.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS"  tvg-logo="https://imgur.com/TsOuVLc.png" group-title= "📡🛰AFDTV",TNT NOVELAS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1167.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES"  tvg-logo="https://imgur.com/zwgW2cu.png" group-title= "📡🛰AFDTV",TNT SÉRIES
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/314.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST"  tvg-logo="https://i.imgur.com/Sb2HjOF.png" group-title= "📡🛰AFDTV",TOONCAST
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/367.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TRACE BRASIL"  tvg-logo="https://i.imgur.com/8HVJVMo.png" group-title= "📡🛰AFDTV",TRACE BRASIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/969.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL"  tvg-logo="https://imgur.com/hWGTZmQ.png" group-title= "📡🛰AFDTV",TRAVEL BOX BRAZIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/848.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA"  tvg-logo="https://i.imgur.com/fB4ne1E.png" group-title= "📡🛰AFDTV",TV APARECIDA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/542.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL"  tvg-logo="https://i.imgur.com/YSNSkqh.png" group-title= "📡🛰AFDTV",TV BRASIL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1100.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA"  tvg-logo="https://i.imgur.com/bAdolND.png" group-title= "📡🛰AFDTV",TV CAMARA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1165.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA"  tvg-logo="https://i.imgur.com/YNtiVW1.png" group-title= "📡🛰AFDTV",TV CULTURA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/547.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO"  tvg-logo="https://i.imgur.com/CJC8uU6.png" group-title= "📡🛰AFDTV",TV DIARIO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/548.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR"  tvg-logo="https://i.imgur.com/srOtXv0.png" group-title= "📡🛰AFDTV",TV EVANGELIZAR
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1051.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA"  tvg-logo="https://i.imgur.com/jA3vmnn.png" group-title= "📡🛰AFDTV",TV GAZETA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/551.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA"  tvg-logo="https://i.imgur.com/kaahwpQ.png" group-title= "📡🛰AFDTV",TV JUSTIÇA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/553.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO"  tvg-logo="https://i.imgur.com/TvUPU2a.png" group-title= "📡🛰AFDTV",TV NOVO TEMPO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1053.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO"  tvg-logo="https://i.imgur.com/J7M8MBN.png" group-title= "📡🛰AFDTV",TV PAI ETERNO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/939.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO"  tvg-logo="https://i.imgur.com/M5Go5Li.png" group-title= "📡🛰AFDTV",TV SENADO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1164.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TV RA-TIM-BUM"  tvg-logo="https://i.imgur.com/L4gyVx0.png" group-title= "📡🛰AFDTV",TV RA-TIM-BUM
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/369.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA"  tvg-logo="https://i.imgur.com/zd0nKzm.png" group-title= "📡🛰AFDTV",TVE BAHIA
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/455.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS"  tvg-logo="https://i.imgur.com/yR3hbIE.png" group-title= "📡🛰AFDTV",UFC FIGHT PASS
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/1121.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL"  tvg-logo="https://imgur.com/MB89Z2F.png" group-title= "📡🛰AFDTV",UNIVERSAL CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/319.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK"  tvg-logo="https://i.imgur.com/GaRmoyy.png" group-title= "📡🛰AFDTV",USA NETWORK
+http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/75?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="VH1"  tvg-logo="https://i.imgur.com/alOnlxI.png" group-title= "📡🛰AFDTV",VH1
+http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/91?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="VIVA(BR)"  tvg-logo="https://imgur.com/Y6Fy77G.png" group-title= "📡🛰AFDTV",VIVA(BR)
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/114.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL"  tvg-logo="https://i.imgur.com/vR0V3rI.png" group-title= "📡🛰AFDTV",WARNER CHANNEL
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/783.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO"  tvg-logo="https://i.imgur.com/VlLNZn5.png" group-title= "📡🛰AFDTV",WOOHOO
+http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/117.ts?AFDTV
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO"  tvg-logo="https://i.imgur.com/ayDpwDH.png" group-title= "📡🛰AFDTV",ZOOMOO
+http://acsc.cc:80/970833/5ttvMV/104935.ts
+## Fim canais para filtrar 1 ##
