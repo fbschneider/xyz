@@ -405,6 +405,9 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 
 ##Canais Esportes##
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
+http://142.54.163.202/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SporTV SD
 http://177.128.113.8:1/play/a0ak
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Esportes",SPORTV
