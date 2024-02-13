@@ -1766,7 +1766,7 @@ https://r.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fd1419a3b4f4b000773ba85" tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" tvg-chno="1209" group-title="Pluto TV" , Tastemade
 https://r.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f516730b78b7600079294f5" tvg-id="5f516730b78b7600079294f5" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" tvg-chno="1224" group-title="Estilo de Vida" , Pluto TV Fashionstream
+#EXTINF:-1 channel-id="pluto-5f516730b78b7600079294f5" tvg-id="5f516730b78b7600079294f5" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" tvg-chno="1224" group-title="Pluto TV" , Pluto TV Fashionstream
 https://r.mjh.nz/PlutoTV/5f516730b78b7600079294f5-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f12136385bccc00070142ed" tvg-id="5f12136385bccc00070142ed" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" tvg-chno="1251" group-title="Pluto TV" , Pluto TV Anime
@@ -1775,16 +1775,16 @@ https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
 #EXTINF:-1 channel-id="pluto-604b79c558393100078faeef" tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" tvg-chno="1254" group-title="Pluto TV" , Pluto TV Anime Ação
 https://r.mjh.nz/PlutoTV/604b79c558393100078faeef-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f6df5a173d7340007c559f7" tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" tvg-chno="1259" group-title="Anime & Geek" , Naruto
+#EXTINF:-1 channel-id="pluto-5f6df5a173d7340007c559f7" tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" tvg-chno="1259" group-title="Pluto TV" , Naruto
 https://r.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-64c92f965580090008084968" tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" tvg-chno="1260" group-title="Anime & Geek" , Naruto Shippuden
+#EXTINF:-1 channel-id="pluto-64c92f965580090008084968" tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" tvg-chno="1260" group-title="Pluto TV" , Naruto Shippuden
 https://r.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-625464a945b6a200079257d1" tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" tvg-chno="1264" group-title="Pluto TV" , Death Note
 https://r.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63988c2750108d00072e2686" tvg-id="63988c2750108d00072e2686" tvg-logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" tvg-chno="1267" group-title="Anime & Geek" , Super Onze
+#EXTINF:-1 channel-id="pluto-63988c2750108d00072e2686" tvg-id="63988c2750108d00072e2686" tvg-logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" tvg-chno="1267" group-title="Pluto TV" , Super Onze
 https://r.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63988a50be012600070f5db3" tvg-id="63988a50be012600070f5db3" tvg-logo="https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" tvg-chno="1269" group-title="Pluto TV" , Yu-Gi-Oh
@@ -1796,7 +1796,7 @@ https://r.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8
 #EXTINF:-1 channel-id="pluto-633dc392e0282400071b0d39" tvg-id="633dc392e0282400071b0d39" tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" tvg-chno="1274" group-title="Pluto TV" , Beyblade
 https://r.mjh.nz/PlutoTV/633dc392e0282400071b0d39-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-624b1c8d4321e200073ee421" tvg-id="624b1c8d4321e200073ee421" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" tvg-chno="1284" group-title="Anime & Geek" , One Piece
+#EXTINF:-1 channel-id="pluto-624b1c8d4321e200073ee421" tvg-id="624b1c8d4321e200073ee421" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" tvg-chno="1284" group-title="Pluto TV" , One Piece
 https://r.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ff609de50ab210008025c1b" tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" tvg-chno="1294" group-title="Pluto TV" , Tokusato
