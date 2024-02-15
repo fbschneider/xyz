@@ -9,8 +9,11 @@ http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",BBB 24 | CAM 3
 http://5ce.co/live/Maracanau007/97548927Fot/230366.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",BBB 24 | CAM 3
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",zero 1
 https://www.grupocooperminas.com/arquivosxyz/RCRTZROEP01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",zero 12
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708019771/ei/2_vNZc31Be7k-LAP59aAmA0/ip/177.8.84.105/id/7a4d32a3e2004b4e/itag/231/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D42566331%3Bdur%3D580.413%3Bgir%3Dyes%3Bitag%3D135%3Blmt%3D1707998077093651/rqh/1/hls_chunk_host/rr9---sn-pmcg-bg0s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/nJ/mm/31,26/mn/sn-pmcg-bg0s,sn-gpv7ynel/ms/au,onr/mv/m/mvi/9/pl/24/initcwndbps/3908750/vprv/1/playlist_type/DVR/dover/13/txp/6219224/mt/1707996805/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRAIgb1wVDtuRR9dX8kvHHjFgwBQ48W3uRd4vjHJXrATeIF4CID1HSc7k0Zpdq8B7wgfVKFTr5i-23tONVIjT3q6P5jxy/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/APTiJQcwRQIhAJg4iNzYBIHz19Jx41FDNDm_2LXQnIh-ZCNs_tVv988MAiA8BUmcOJlGvvVdAXTgPOnscmEwgSRgjohs4OQXWEK8jg%3D%3D/playlist/index.m3u8
 ##Fim BBB 24##
 
 ##Canais Abertos##
