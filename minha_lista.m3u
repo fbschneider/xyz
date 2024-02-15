@@ -8,13 +8,12 @@ http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",BBB 24 | CAM 3
 http://5ce.co/live/Maracanau007/97548927Fot/230366.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",zero 1
-https://www.grupocooperminas.com/arquivosxyz/RCRTZROEP01.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB 24",zero 3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708020311/ei/9_3NZfLnE6uC-LAP8cygoA0/ip/177.8.84.105/id/7a4d32a3e2004b4e/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr9---sn-pmcg-bg0s.googlevideo.com/mh/nJ/mm/31%2C26/mn/sn-pmcg-bg0s%2Csn-gpv7knee/ms/au%2Conr/mv/m/mvi/9/pl/24/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2947500/vprv/1/go/1/mt/1707998495/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLdIUjhahSSuX7bs2e6NFUWsooTQkcMl29X-ogWTYOGwCIFHpjaPrQ9YOPEgHwwK-9BTrQaM38fvL_fy2yFaW8dxE/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/APTiJQcwRgIhAOGITmY7oU3BS9NKbi8PWn_jpd-MRkOY2-Sfbv8ve7iTAiEApmhqdh5Y1zskb3kjIAw2SES5KgzR3cOSRxmc0JGvJ2A%3D/file/index.m3u8
 ##Fim BBB 24##
+
+##Recruta Zero##
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Recruta Zero",Episódio 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708020311/ei/9_3NZfLnE6uC-LAP8cygoA0/ip/177.8.84.105/id/7a4d32a3e2004b4e/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr9---sn-pmcg-bg0s.googlevideo.com/mh/nJ/mm/31%2C26/mn/sn-pmcg-bg0s%2Csn-gpv7knee/ms/au%2Conr/mv/m/mvi/9/pl/24/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2947500/vprv/1/go/1/mt/1707998495/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLdIUjhahSSuX7bs2e6NFUWsooTQkcMl29X-ogWTYOGwCIFHpjaPrQ9YOPEgHwwK-9BTrQaM38fvL_fy2yFaW8dxE/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/APTiJQcwRgIhAOGITmY7oU3BS9NKbi8PWn_jpd-MRkOY2-Sfbv8ve7iTAiEApmhqdh5Y1zskb3kjIAw2SES5KgzR3cOSRxmc0JGvJ2A%3D/file/index.m3u8
+##Fim Recruta Zero##
 
 ##Canais Abertos##
 ##Globo
