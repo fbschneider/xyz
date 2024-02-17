@@ -46,6 +46,12 @@ https://cr7v.short.gy/manotv/Juizdfora/Index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",TV TEM SP HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title= "Canais Abertos",GLOBO SP
+https://8mwx.short.gy/GLOBOSP/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title= "Canais Abertos",GLOBO BA
+https://8mwx.short.gy/GLOBOBA/index.m3u8
+
 
 ##SBT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canais Abertos",Sbt serra durada
@@ -1960,58 +1966,3 @@ https://www.grupocooperminas.com/arquivosxyz/RCRTZROEP50.mp4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1095706042288230400/3vUzGlAO_400x400.png" group-title="Recruta Zero",Recruta Zero - FILME
 https://www.grupocooperminas.com/arquivosxyz/RCRTZROFILME.mp4
 ##Fim Recruta Zero##
-
-
-
-##Canais para filtrar 1##
-#EXTINF:-1 tvg-id="" tvg-name="CINEBRASIL"  tvg-logo="https://i.imgur.com/bzJgwGU.png" group-title= "📡🛰AFDTV",CINEBRASIL
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL"  tvg-logo="https://imgur.com/khmHPUs.png" group-title= "📡🛰AFDTV",CINECANAL
-http://dns.clientetv.net:8080/live/SulivanEsteves/Sulivan2021Se/62193.ts?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="CLUBINHO FUN"  tvg-logo="https://i.imgur.com/HnHQR4H.png" group-title= "📡🛰AFDTV",CLUBINHO FUN
-http://cdn.connectbr.com.br/Clubinho/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CNT"  tvg-logo="https://i.imgur.com/MQtfxnG.png" group-title= "📡🛰AFDTV",CNT
-http://ucsxiptv.com:8080/live/nit_ad43yrert82cwejn434kf/340jfwof93w4rmfqmvc432r398u43mre1x/15804.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H"  tvg-logo="https://i.imgur.com/PxLTl7K.png" group-title= "📡🛰AFDTV",DISCOVERY H&H
-http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/465?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="GE FAST"  tvg-logo="https://i.imgur.com/SY31PgU.png" group-title= "📡🛰AFDTV",GE FAST
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"  tvg-logo="https://i.imgur.com/Gzz2ffH.png" group-title= "📡🛰AFDTV",HBO PLUS
-http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/42?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV"  tvg-logo="https://i.imgur.com/pDEuf4H.png" group-title= "📡🛰AFDTV",PLAY TV
-http://dns.p2.wtf/live/BrunoTi2/123654/69209.ts?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL"  tvg-logo="https://i.imgur.com/q3syYCL.png" group-title= "📡🛰AFDTV",REDE GOSPEL
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES"  tvg-logo="https://i.imgur.com/lOMOdaD.png" group-title= "📡🛰AFDTV",SONY MOVIES
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK"  tvg-logo="https://i.imgur.com/GaRmoyy.png" group-title= "📡🛰AFDTV",USA NETWORK
-http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/75?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="VH1"  tvg-logo="https://i.imgur.com/alOnlxI.png" group-title= "📡🛰AFDTV",VH1
-http://blacktv.syscdn.xyz:80/Spd16sbbNp/9i0kCKDaqS/91?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO"  tvg-logo="https://i.imgur.com/ayDpwDH.png" group-title= "📡🛰AFDTV",ZOOMOO
-http://acsc.cc:80/970833/5ttvMV/104935.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV POA"  tvg-logo="https://i.imgur.com/ayDpwDH.png" group-title= "📡🛰AFDTV",RBS TV POA
-https://8mwx.short.gy/RBSTV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP"  tvg-logo="https://i.imgur.com/ayDpwDH.png" group-title= "📡🛰AFDTV",GLOBO SP
-https://8mwx.short.gy/GLOBOSP/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA"  tvg-logo="https://i.imgur.com/ayDpwDH.png" group-title= "📡🛰AFDTV",GLOBO BA
-https://8mwx.short.gy/GLOBOBA/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS"  tvg-logo="https://i.imgur.com/ayDpwDH.png" group-title= "📡🛰AFDTV",GLOBO NEWS
-https://8mwx.short.gy/GLOBONEWS/index.m3u8
-##Fim canais para filtrar 1##
