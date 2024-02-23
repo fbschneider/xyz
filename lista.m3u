@@ -1,6 +1,20 @@
 #EXTM3U
-##Canais Abertos##
-##Globo
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",2223
-http://89.187.173.213/auth/1314616.m3u8?token=gkRgWwHxeDEPql1X6ng0x1QT4Y6k0xPV_UeTGK-HnYDS3ypKkDo_VSuDj0rIZtsH0Ftvr3we7-4wRNAVWanfN4MvGfW13DCY2alkWxH9oV2Hz07CvjB8_WPy-n19p_07hrdMc0jjjGXpSdq91BvTXUy9EmD5pckzjIMcxuFjLG1Eubs68qRLi42CTbvWXott9JTnFYW1RT9vmuhSXzHoOUMMJsLA_Wwe8K2p1fzl1-p7E-f1P52RIu9YXwWso9qHW8U3VKR8x8UO__nSI-wFVAvXDvABOKTD9az6BFhuMMHs1cBBJRHm0cVi9roL-KKra9LmC66Vv5SbwGIUVPafyB9WoG9P2iLPWrbdEDU8y1XbMCa6iUVi-wygAjAVKIZKW8HKduVZJZ4dT85IDvVU_g4Y-cXvxUhzXK0huIVh7GiJOlr0-pF38pL2CFLroTOSGcoWMVTBWnGADiEyrTpflz5spyqalIiwBNR_uTC3bRDtEkTG44fxdieJf0-Hu7wB4B2gRTCDz3jJlstJ9E0ZhOlGRn_RMkMT7YlzRq__iHQ5HEK_FVLUqQusp-IG6Y7P&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDg0NjExMDUsIm5iZiI6MTcwODQ2MTEwNSwiZXhwIjoxNzA4NDc1NTA1LCJpc3MiOiIiLCJqdGkiOiIxMzEyNzAyMDk3NjVkNTBjMzE0OGVlZDcuODQwODc0NjIiLCJhZ2VudCI6IlhDSVBUVi12NS4wLjEiLCJyZWZlcmVyIjpudWxsLCJ1c2VybmFtZSI6IjciLCJjbGllbnRlIjoiMjAxLjE3LjE1OS4yMjQifQ.Z-GOdta8vjqJf6DmK0TznNmOHxWL76mdbUdtLCivRPc
+##Filmes##
+#EXTINF:-1 tvg-logo="https://jornaldepatrocinio.com/wp-content/uploads/2023/10/lucas3-e1696640900641.jpg" group-title="Filmes",Rodeio Rock (2023)
+http://1111.wf:80/movie/464331343/8857723/293278.mp4
+
+#EXTINF:-1 tvg-logo="https://jornaldepatrocinio.com/wp-content/uploads/2023/10/lucas3-e1696640900641.jpg" group-title="Filmes",Rodeio Rock (2023)
+http://cdn.vood.top/movie/293278.mp4?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNDY0MzMxMzQzIiwidXNlcklwIjoiMTc5LjE1NS40Ni4xODciLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTcwODY3MDMyNywibmJmIjoxNzA4NjQ4NzI3LCJpYXQiOjE3MDg2NDg3Mjd9.qlsq9sSwR_cOcoTRW__uQUNmrgJIooYZOzgAHiid6JA
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/03/09/18/11/071147.jpg" group-title="Filmes",Convenção das Bruxas (1990)
+http://1111.wf:80/movie/464331343/8857723/4769.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/03/09/18/11/071147.jpg" group-title="Filmes",Convenção das Bruxas (1990)
+http://cdn.vood.top/movie/4769.mp4?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNDY0MzMxMzQzIiwidXNlcklwIjoiMTc5LjE1NS40Ni4xODciLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTcwODY3MDMyNywibmJmIjoxNzA4NjQ4NzI3LCJpYXQiOjE3MDg2NDg3Mjd9.qlsq9sSwR_cOcoTRW__uQUNmrgJIooYZOzgAHiid6JA
+
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/c5a15a00-0000-0000-0000-000000000002/504/image.jpg" group-title="Filmes",Convenção das Bruxas (2020)
+http://1111.wf:80/movie/464331343/8857723/269095.mp4
+
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/c5a15a00-0000-0000-0000-000000000002/504/image.jpg" group-title="Filmes",Convenção das Bruxas (2020)
+http://cdn.vood.top/movie/269095.mp4?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNDY0MzMxMzQzIiwidXNlcklwIjoiMTc5LjE1NS40Ni4xODciLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTcwODY3MDMyNywibmJmIjoxNzA4NjQ4NzI3LCJpYXQiOjE3MDg2NDg3Mjd9.qlsq9sSwR_cOcoTRW__uQUNmrgJIooYZOzgAHiid6JA
 
