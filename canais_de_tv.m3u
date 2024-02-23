@@ -386,6 +386,630 @@ http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Canais 24 horas",Canal da Praça 
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8?ManoTV
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pegadinhas Joao kleber 
+http://1111.wf:80/464331343/8857723/231027
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Chaves 1
+http://1111.wf:80/464331343/8857723/232221
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Chaves 2
+http://1111.wf:80/464331343/8857723/232224
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Chapolin 1
+http://1111.wf:80/464331343/8857723/232227
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Escolinha do Professor Raimundo
+http://1111.wf:80/464331343/8857723/272663
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Trapalhões
+http://1111.wf:80/464331343/8857723/272662
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Eu a Patroa e as Crianças 1
+http://1111.wf:80/464331343/8857723/272664
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Eu a Patroa e as Crianças 2
+http://1111.wf:80/464331343/8857723/272665
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Eu a Patroa e as Crianças 3
+http://1111.wf:80/464331343/8857723/272666
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Eu a Patroa e as Crianças 4
+http://1111.wf:80/464331343/8857723/272667
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Eu a Patroa e as Crianças 5
+http://1111.wf:80/464331343/8857723/272668
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 1
+http://1111.wf:80/464331343/8857723/272669
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 2
+http://1111.wf:80/464331343/8857723/272670
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 3
+http://1111.wf:80/464331343/8857723/272671
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 4
+http://1111.wf:80/464331343/8857723/272672
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 5
+http://1111.wf:80/464331343/8857723/272673
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 6
+http://1111.wf:80/464331343/8857723/272674
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 7
+http://1111.wf:80/464331343/8857723/272675
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Todo Mundo Odeia o Chris 8
+http://1111.wf:80/464331343/8857723/272676
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Um Maluco no Pedaço 1
+http://1111.wf:80/464331343/8857723/272677
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Um Maluco no Pedaço 2
+http://1111.wf:80/464331343/8857723/272678
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Um Maluco no Pedaço 3
+http://1111.wf:80/464331343/8857723/272679
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Um Maluco no Pedaço 4
+http://1111.wf:80/464331343/8857723/272680
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Um Maluco no Pedaço 5
+http://1111.wf:80/464331343/8857723/272681
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Um Maluco no Pedaço 6
+http://1111.wf:80/464331343/8857723/272682
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Porta dos Fundos 01
+http://1111.wf:80/464331343/8857723/272657
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Porta dos Fundos 02
+http://1111.wf:80/464331343/8857723/272658
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Culpa é do Cabral 01
+http://1111.wf:80/464331343/8857723/272659
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Culpa é do Cabral 02
+http://1111.wf:80/464331343/8857723/272660
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Culpa é do Cabral 03
+http://1111.wf:80/464331343/8857723/272661
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 01
+http://1111.wf:80/464331343/8857723/272683
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 02
+http://1111.wf:80/464331343/8857723/272684
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 03
+http://1111.wf:80/464331343/8857723/272685
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 04
+http://1111.wf:80/464331343/8857723/272686
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 05
+http://1111.wf:80/464331343/8857723/272687
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 06
+http://1111.wf:80/464331343/8857723/272688
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 07
+http://1111.wf:80/464331343/8857723/272689
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 08
+http://1111.wf:80/464331343/8857723/272690
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 09
+http://1111.wf:80/464331343/8857723/272691
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Friends 10
+http://1111.wf:80/464331343/8857723/272692
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 1
+http://1111.wf:80/464331343/8857723/272693
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 2
+http://1111.wf:80/464331343/8857723/272694
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 3
+http://1111.wf:80/464331343/8857723/272695
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 5
+http://1111.wf:80/464331343/8857723/272696
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 6
+http://1111.wf:80/464331343/8857723/272697
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 7
+http://1111.wf:80/464331343/8857723/272698
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai que Cola 8
+http://1111.wf:80/464331343/8857723/272699
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",Relaxar com natureza 4  24h
+http://1111.wf:80/464331343/8857723/217327
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",Relaxar com natureza 3  24h
+http://1111.wf:80/464331343/8857723/217328
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",Relaxar com natureza 2  24h
+http://1111.wf:80/464331343/8857723/217329
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",Relaxar com natureza 24h
+http://1111.wf:80/464331343/8857723/217330
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",Relaxar e Dormir 24h
+http://1111.wf:80/464331343/8857723/217331
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",Yu-Gi-Oh Temp. 7  24h
+http://1111.wf:80/464331343/8857723/217926
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball 1 CDN
+http://1111.wf:80/464331343/8857723/271601
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball 2 CDN
+http://1111.wf:80/464331343/8857723/271602
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball Heroes CDN 
+http://1111.wf:80/464331343/8857723/271603
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball Super 1
+http://1111.wf:80/464331343/8857723/271604
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball Super 2
+http://1111.wf:80/464331343/8857723/271605
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball Super 3
+http://1111.wf:80/464331343/8857723/271606
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball Z 1
+http://1111.wf:80/464331343/8857723/271607
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball Z 2
+http://1111.wf:80/464331343/8857723/271608
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dragon Ball 
+http://1111.wf:80/464331343/8857723/271609
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] YT-Investigação Criminal
+http://1111.wf:80/464331343/8857723/272705
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] YT-Policia Militar
+http://1111.wf:80/464331343/8857723/272706
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Xena
+http://1111.wf:80/464331343/8857723/272707
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Xuxa só para Baixinhos 1
+http://1111.wf:80/464331343/8857723/272708
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Xuxa só para Baixinhos 2
+http://1111.wf:80/464331343/8857723/272709
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Jiraya
+http://1111.wf:80/464331343/8857723/272710
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 01
+http://1111.wf:80/464331343/8857723/272711
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 02
+http://1111.wf:80/464331343/8857723/272712
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 03
+http://1111.wf:80/464331343/8857723/272713
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 04
+http://1111.wf:80/464331343/8857723/272714
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 05
+http://1111.wf:80/464331343/8857723/272715
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 06
+http://1111.wf:80/464331343/8857723/272716
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 07
+http://1111.wf:80/464331343/8857723/272717
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 08
+http://1111.wf:80/464331343/8857723/272718
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 09
+http://1111.wf:80/464331343/8857723/272719
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 10
+http://1111.wf:80/464331343/8857723/272720
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 11
+http://1111.wf:80/464331343/8857723/272721
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dois Homens e Meio 12
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Grande Familia 1
+http://1111.wf:80/464331343/8857723/272732
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Grande Familia 2
+http://1111.wf:80/464331343/8857723/272733
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] As Visões da Raven
+http://1111.wf:80/464331343/8857723/272734
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Auto da Comparecida
+http://1111.wf:80/464331343/8857723/272735
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 01
+http://1111.wf:80/464331343/8857723/272736
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 02
+http://1111.wf:80/464331343/8857723/272737
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 03
+http://1111.wf:80/464331343/8857723/272738
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 04
+http://1111.wf:80/464331343/8857723/272739
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 05
+http://1111.wf:80/464331343/8857723/272740
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 06
+http://1111.wf:80/464331343/8857723/272741
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 07
+http://1111.wf:80/464331343/8857723/272742
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 08
+http://1111.wf:80/464331343/8857723/272743
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 09
+http://1111.wf:80/464331343/8857723/272744
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Smallville 10
+http://1111.wf:80/464331343/8857723/272745
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Thiago Ventura
+http://1111.wf:80/464331343/8857723/260604
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cavaleiros do Zodiaco 1
+http://1111.wf:80/464331343/8857723/272754
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cavaleiros do Zodiaco 2
+http://1111.wf:80/464331343/8857723/272755
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cavaleiros do Zodiaco 3
+http://1111.wf:80/464331343/8857723/272756
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cavaleiros do Zodiaco 4
+http://1111.wf:80/464331343/8857723/272757
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cavaleiros do Zodiaco 5
+http://1111.wf:80/464331343/8857723/272758
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cavaleiros do Zodiaco 6
+http://1111.wf:80/464331343/8857723/272759
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 01
+http://1111.wf:80/464331343/8857723/272760
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 02
+http://1111.wf:80/464331343/8857723/272761
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 03
+http://1111.wf:80/464331343/8857723/272762
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 04
+http://1111.wf:80/464331343/8857723/272763
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 05
+http://1111.wf:80/464331343/8857723/272764
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 06
+http://1111.wf:80/464331343/8857723/272765
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 07
+http://1111.wf:80/464331343/8857723/272766
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 08
+http://1111.wf:80/464331343/8857723/272767
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 09
+http://1111.wf:80/464331343/8857723/272768
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 10
+http://1111.wf:80/464331343/8857723/272769
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 11
+http://1111.wf:80/464331343/8857723/272770
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 12
+http://1111.wf:80/464331343/8857723/272771
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 13
+http://1111.wf:80/464331343/8857723/272772
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 14
+http://1111.wf:80/464331343/8857723/272773
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 15
+http://1111.wf:80/464331343/8857723/272774
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 16
+http://1111.wf:80/464331343/8857723/272775
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 17
+http://1111.wf:80/464331343/8857723/272776
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 18
+http://1111.wf:80/464331343/8857723/272777
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 19
+http://1111.wf:80/464331343/8857723/272778
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 20
+http://1111.wf:80/464331343/8857723/272779
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 21
+http://1111.wf:80/464331343/8857723/272780
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 22
+http://1111.wf:80/464331343/8857723/272781
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 23
+http://1111.wf:80/464331343/8857723/272782
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 24
+http://1111.wf:80/464331343/8857723/272783
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 25
+http://1111.wf:80/464331343/8857723/272784
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 26
+http://1111.wf:80/464331343/8857723/272785
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 27
+http://1111.wf:80/464331343/8857723/272786
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 28
+http://1111.wf:80/464331343/8857723/272787
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 29
+http://1111.wf:80/464331343/8857723/272788
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 30
+http://1111.wf:80/464331343/8857723/272789
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 31
+http://1111.wf:80/464331343/8857723/272790
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 32
+http://1111.wf:80/464331343/8857723/272791
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 33
+http://1111.wf:80/464331343/8857723/272792
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Simpsons 34
+http://1111.wf:80/464331343/8857723/272793
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pocoyo
+http://1111.wf:80/464331343/8857723/272794
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Peppa Pig
+http://1111.wf:80/464331343/8857723/272795
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dora Aventureira 01
+http://1111.wf:80/464331343/8857723/272796
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Dora Aventureira 2
+http://1111.wf:80/464331343/8857723/272797
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Baby Looney Tunes
+http://1111.wf:80/464331343/8857723/272798
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] 3 Palavrinhas
+http://1111.wf:80/464331343/8857723/272799
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Casa do Mickey Mouse
+http://1111.wf:80/464331343/8857723/272800
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Doug 1
+http://1111.wf:80/464331343/8857723/272801
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patrulha Canina 2
+http://1111.wf:80/464331343/8857723/272802
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patrulha Canina 3
+http://1111.wf:80/464331343/8857723/272803
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patrulha Canina 4
+http://1111.wf:80/464331343/8857723/272804
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patrulha Canina 5
+http://1111.wf:80/464331343/8857723/272805
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patrulha Canina 6
+http://1111.wf:80/464331343/8857723/272806
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] As Meninas Superpoderosas
+http://1111.wf:80/464331343/8857723/272807
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pintinho Amarelinho 1
+http://1111.wf:80/464331343/8857723/272808
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pintinho Amarelinho 2
+http://1111.wf:80/464331343/8857723/272809
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Princesa e o Dragão
+http://1111.wf:80/464331343/8857723/272810
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Moranguinho 1
+http://1111.wf:80/464331343/8857723/272811
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Moranguinho 2
+http://1111.wf:80/464331343/8857723/272812
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pantera Cor de Rosa 1
+http://1111.wf:80/464331343/8857723/272813
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pantera Cor de Rosa 2
+http://1111.wf:80/464331343/8857723/272814
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patati e Patata 01
+http://1111.wf:80/464331343/8857723/272815
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Patati e Patata 02
+http://1111.wf:80/464331343/8857723/272816
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Galinha Pintadinha
+http://1111.wf:80/464331343/8857723/272817
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Galo e a Pata
+http://1111.wf:80/464331343/8857723/272818
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Garfield 01
+http://1111.wf:80/464331343/8857723/272819
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Garfield 02
+http://1111.wf:80/464331343/8857723/272820
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Garfield 03
+http://1111.wf:80/464331343/8857723/272821
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Sapo Não Lava o Pé 01
+http://1111.wf:80/464331343/8857723/272822
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Sapo Não Lava o Pé 02
+http://1111.wf:80/464331343/8857723/272823
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Irmão do Jorel 1
+http://1111.wf:80/464331343/8857723/272824
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Irmão do Jorel 2
+http://1111.wf:80/464331343/8857723/272825
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Doug 2
+http://1111.wf:80/464331343/8857723/272826
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pato Donald
+http://1111.wf:80/464331343/8857723/272827
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pequena Sereia
+http://1111.wf:80/464331343/8857723/272828
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pernalonga 01
+http://1111.wf:80/464331343/8857723/272829
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pernalonga 02
+http://1111.wf:80/464331343/8857723/272830
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pica Pau 01
+http://1111.wf:80/464331343/8857723/272831
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pica Pau 02
+http://1111.wf:80/464331343/8857723/272832
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pica Pau 03
+http://1111.wf:80/464331343/8857723/272833
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pink-e-Cerebro
+http://1111.wf:80/464331343/8857723/272834
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Ursinhos Carinhosos 1
+http://1111.wf:80/464331343/8857723/272835
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Ursinhos Carinhosos 2
+http://1111.wf:80/464331343/8857723/272836
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] PJ Masks
+http://1111.wf:80/464331343/8857723/272837
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pokemon 1
+http://1111.wf:80/464331343/8857723/272838
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Pokemon 2
+http://1111.wf:80/464331343/8857723/272839
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Popeye
+http://1111.wf:80/464331343/8857723/272840
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Popeye 75th
+http://1111.wf:80/464331343/8857723/272841
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Timão e Pumba 01
+http://1111.wf:80/464331343/8857723/272842
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Timão e Pumba 02
+http://1111.wf:80/464331343/8857723/272843
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rambo
+http://1111.wf:80/464331343/8857723/272844
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Reino Gelado
+http://1111.wf:80/464331343/8857723/272845
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] YU-YU-Hakusho
+http://1111.wf:80/464331343/8857723/272846
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Zatch Bell
+http://1111.wf:80/464331343/8857723/272847
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Zé Buscapé
+http://1111.wf:80/464331343/8857723/272848
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Vai, Cachorro. Vai!
+http://1111.wf:80/464331343/8857723/272849
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Wally Gator
+http://1111.wf:80/464331343/8857723/272850
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Show da Luna
+http://1111.wf:80/464331343/8857723/272851
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Tom & Jerry
+http://1111.wf:80/464331343/8857723/272852
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Três Espiãs Demais
+http://1111.wf:80/464331343/8857723/272853
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Turma da Mônica
+http://1111.wf:80/464331343/8857723/272854
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Turma do Pateta
+http://1111.wf:80/464331343/8857723/272855
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Ultraman
+http://1111.wf:80/464331343/8857723/272856
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Thundercats
+http://1111.wf:80/464331343/8857723/272857
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Tartarugas Ninjas
+http://1111.wf:80/464331343/8857723/272858
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Team-Galaxy
+http://1111.wf:80/464331343/8857723/272859
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] South Park 01
+http://1111.wf:80/464331343/8857723/272860
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] South Park 02
+http://1111.wf:80/464331343/8857723/272861
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] South Park 03
+http://1111.wf:80/464331343/8857723/272862
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Speed-Racer
+http://1111.wf:80/464331343/8857723/272863
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Steven Universe
+http://1111.wf:80/464331343/8857723/272864
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Street Fighter 2
+http://1111.wf:80/464331343/8857723/272865
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Super Choque 1
+http://1111.wf:80/464331343/8857723/272866
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Super Choque 2
+http://1111.wf:80/464331343/8857723/272867
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Super Mario Bros 1
+http://1111.wf:80/464331343/8857723/272868
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Super Mario Bros 2
+http://1111.wf:80/464331343/8857723/272869
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Super Wings 01
+http://1111.wf:80/464331343/8857723/272870
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Super Wings 02
+http://1111.wf:80/464331343/8857723/272871
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Superman - Homem do Amanhã
+http://1111.wf:80/464331343/8857723/272872
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Superman Animado 01
+http://1111.wf:80/464331343/8857723/272873
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Superman Animado 02
+http://1111.wf:80/464331343/8857723/272874
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Sakura Card
+http://1111.wf:80/464331343/8857723/272875
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Samurai Warriors
+http://1111.wf:80/464331343/8857723/272876
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Samurai-X 1
+http://1111.wf:80/464331343/8857723/272877
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Samurai-X 2
+http://1111.wf:80/464331343/8857723/272878
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Scooby-Doo
+http://1111.wf:80/464331343/8857723/272879
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Scooby-Doo - 13 Fantasmas 1985
+http://1111.wf:80/464331343/8857723/272880
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Shaman King
+http://1111.wf:80/464331343/8857723/272881
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] She-ra
+http://1111.wf:80/464331343/8857723/272882
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Shinzo
+http://1111.wf:80/464331343/8857723/272883
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Shurato
+http://1111.wf:80/464331343/8857723/272884
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Simon
+http://1111.wf:80/464331343/8857723/272885
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Sitio do Pica-Pau Amarelo
+http://1111.wf:80/464331343/8857723/272886
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rick And Morty 1
+http://1111.wf:80/464331343/8857723/272887
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rick And Morty 2
+http://1111.wf:80/464331343/8857723/272888
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rick And Morty 3
+http://1111.wf:80/464331343/8857723/272889
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rick And Morty 4
+http://1111.wf:80/464331343/8857723/272890
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rick And Morty 5
+http://1111.wf:80/464331343/8857723/272891
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rick And Morty 6
+http://1111.wf:80/464331343/8857723/272892
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Rimas de Berçário
+http://1111.wf:80/464331343/8857723/272893
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Futurama
+http://1111.wf:80/464331343/8857723/272894
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] He-Man 1
+http://1111.wf:80/464331343/8857723/272895
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] He-Man 2
+http://1111.wf:80/464331343/8857723/272896
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] He-Man 2002
+http://1111.wf:80/464331343/8857723/272897
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] He-Man 3
+http://1111.wf:80/464331343/8857723/272898
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Homem Aranha Animado 1
+http://1111.wf:80/464331343/8857723/272899
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Homem Aranha Animado 2
+http://1111.wf:80/464331343/8857723/272900
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Homem de Ferro 01
+http://1111.wf:80/464331343/8857723/272901
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Homem de Ferro 02
+http://1111.wf:80/464331343/8857723/272902
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Homem de Ferro 1994
+http://1111.wf:80/464331343/8857723/272903
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Jacarelvis
+http://1111.wf:80/464331343/8857723/272904
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Johnny Bravo
+http://1111.wf:80/464331343/8857723/272905
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Johnny Test
+http://1111.wf:80/464331343/8857723/272906
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Kenan e Kel
+http://1111.wf:80/464331343/8857723/272907
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Larva Chiclete
+http://1111.wf:80/464331343/8857723/272908
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Leo O-Caminhão
+http://1111.wf:80/464331343/8857723/272909
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Liga da Justica
+http://1111.wf:80/464331343/8857723/272910
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Looney Tunes
+http://1111.wf:80/464331343/8857723/272911
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Luluzinha 1
+http://1111.wf:80/464331343/8857723/272912
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Luluzinha 2
+http://1111.wf:80/464331343/8857723/272913
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Masha e o Urso
+http://1111.wf:80/464331343/8857723/272914
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Medabots
+http://1111.wf:80/464331343/8857723/272915
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] MegaMan
+http://1111.wf:80/464331343/8857723/272916
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Naruto
+http://1111.wf:80/464331343/8857723/272917
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] O Clube das Winx
+http://1111.wf:80/464331343/8857723/272918
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Oggy e as Baratas
+http://1111.wf:80/464331343/8857723/272919
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] One Piece East Blue
+http://1111.wf:80/464331343/8857723/272920
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Flinstones
+http://1111.wf:80/464331343/8857723/272921
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Jetson
+http://1111.wf:80/464331343/8857723/272922
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Padrinhos Mágicos 01
+http://1111.wf:80/464331343/8857723/272923
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Padrinhos Mágicos 02
+http://1111.wf:80/464331343/8857723/272924
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Padrinhos Mágicos 03
+http://1111.wf:80/464331343/8857723/272925
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Padrinhos Mágicos 04
+http://1111.wf:80/464331343/8857723/272926
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Padrinhos Mágicos 05
+http://1111.wf:80/464331343/8857723/272927
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Os Patos
+http://1111.wf:80/464331343/8857723/272928
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Du, Dudu e Edu
+http://1111.wf:80/464331343/8857723/272929
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Em Busca do Vale Encantado
+http://1111.wf:80/464331343/8857723/272930
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Chaves Desenho
+http://1111.wf:80/464331343/8857723/272931
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Clarêncio, O Otimista
+http://1111.wf:80/464331343/8857723/272932
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Coragem o Cão Covarde 1
+http://1111.wf:80/464331343/8857723/272933
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Coragem o Cão Covarde 2
+http://1111.wf:80/464331343/8857723/272934
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Corrida Maluca 1
+http://1111.wf:80/464331343/8857723/272935
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Corrida Maluca 1968
+http://1111.wf:80/464331343/8857723/272936
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Corrida Maluca 2
+http://1111.wf:80/464331343/8857723/272937
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Corrida Maluca 3
+http://1111.wf:80/464331343/8857723/272938
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon 1
+http://1111.wf:80/464331343/8857723/272939
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon 15º Aniversário
+http://1111.wf:80/464331343/8857723/272940
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon 2
+http://1111.wf:80/464331343/8857723/272941
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon Adventure Zero Two
+http://1111.wf:80/464331343/8857723/272942
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon Frontier
+http://1111.wf:80/464331343/8857723/272943
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon Savers
+http://1111.wf:80/464331343/8857723/272944
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Digimon Tamers
+http://1111.wf:80/464331343/8857723/272945
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] BEN 10 - 01
+http://1111.wf:80/464331343/8857723/272946
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] BEN 10 2
+http://1111.wf:80/464331343/8857723/272947
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Bita e os Animais
+http://1111.wf:80/464331343/8857723/272948
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Bob Esponja 01
+http://1111.wf:80/464331343/8857723/272949
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Bob o Trem 1
+http://1111.wf:80/464331343/8857723/272950
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Bob o Trem 2
+http://1111.wf:80/464331343/8857723/272951
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Bob Zoom 1
+http://1111.wf:80/464331343/8857723/272952
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Bob Zoom 2
+http://1111.wf:80/464331343/8857723/272953
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Booba 1
+http://1111.wf:80/464331343/8857723/272954
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Booba 2
+http://1111.wf:80/464331343/8857723/272955
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Caillou
+http://1111.wf:80/464331343/8857723/272956
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Carmen Sandiego
+http://1111.wf:80/464331343/8857723/272957
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Cascão A Turma da Monica
+http://1111.wf:80/464331343/8857723/272958
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Caverna do Dragão 1
+http://1111.wf:80/464331343/8857723/272959
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Guarda do Leão
+http://1111.wf:80/464331343/8857723/272960
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Mansão Foster
+http://1111.wf:80/464331343/8857723/272961
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] A Roda do Ônibus
+http://1111.wf:80/464331343/8857723/272962
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Aladdin
+http://1111.wf:80/464331343/8857723/272963
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Angry Birds
+http://1111.wf:80/464331343/8857723/272964
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] Apenas um Show
+http://1111.wf:80/464331343/8857723/272965
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] As Aventuras do Batman 01
+http://1111.wf:80/464331343/8857723/272966
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais 24 horas",[24H] As Aventuras do Batman 02
+http://1111.wf:80/464331343/8857723/272967
+
+
+
 ##Fim Canais 24 horas##
 
 
