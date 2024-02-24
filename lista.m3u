@@ -1,6 +1,6 @@
 #EXTM3U
 ##Filmes##
-#EXTINF:-1 tvg-logo="https://jornaldepatrocinio.com/wp-content/uploads/2023/10/lucas3-e1696640900641.jpg" group-title="Filmes",Rodeio Rock (2023)
+#EXTINF:-1 tvg-logo="" group-title="",Rodeio Rock (2023)
 http://1111.wf:80/movie/464331343/8857723/293278.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/03/09/18/11/071147.jpg" group-title="Filmes",Convenção das Bruxas (1990)
@@ -15,7 +15,7 @@ http://1111.wf:80/movie/464331343/8857723/1438.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/029cb5124ba8ca87ac200f0e58961a1e8504edbc35be6303cae152e7bac71625.jpg" group-title="Filmes",Megatubarão 2 (2023)
 http://1111.wf:80/movie/464331343/8857723/274653.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/mpu-xHB-c9d8Imn3rgSlAcSPHmg=/322x478/smart/filters:format(webp)/media/movies/covers/2023/05/images_kNB35Q9.jpg" group-title="Filmes",O Tubarão: À Deriva (2022) - LEG
+#EXTINF:-1 tvg-logo="" group-title="Filmes",O Tubarão: À Deriva (2022) - LEG
 http://1111.wf:80/movie/464331343/8857723/270227.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/11/22/17/29/0692244.jpg" group-title="Filmes",Tubarão: Mar de Sangue (2022)
@@ -38,7 +38,7 @@ http://1111.wf:80/movie/464331343/8857723/144867.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a93852eadc6961c496ad0989bb9a53a43244af127fb8e669cc538adb8a5e050a.jpg" group-title="Filmes",A Fantástica Fábrica de Chocolate (1971)
 http://1111.wf:80/movie/464331343/8857723/4709.mp4
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCharlie_and_the_Chocolate_Factory_%2528filme%2529&psig=AOvVaw09yH8H4CStAquDmuCQC_h7&ust=1708737363900000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi6qO-kwIQDFQAAAAAdAAAAABAE" group-title="Filmes",A Fantástica Fábrica de Chocolate (2005)
+#EXTINF:-1 tvg-logo="" group-title="Filmes",A Fantástica Fábrica de Chocolate (2005)
 http://1111.wf:80/movie/464331343/8857723/267037.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/11/30/17/43/3553162.jpg" group-title="Filmes",Wonka (2023) 4K
