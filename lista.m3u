@@ -1,49 +1,52 @@
 #EXTM3U
 ##Filmes##
-#EXTINF:-1 tvg-logo="" group-title="Filmes",Rodeio Rock (2023)
-http://1111.wf:80/movie/464331343/8857723/293278.mp4
+#EXTINF:-1,Rodeio Rock (2023)
+http://1111.wf:80/movie/464331343/8857723/293278.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/03/09/18/11/071147.jpg" group-title="Filmes",Convenção das Bruxas (1990)
-http://1111.wf:80/movie/464331343/8857723/4769.mp4
 
-#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/c5a15a00-0000-0000-0000-000000000002/504/image.jpg" group-title="Filmes",Convenção das Bruxas (2020)
+#EXTINF:-1,Convenção das Bruxas (1990)
+http://1111.wf:80/movie/464331343/8857723/4769.mp4
+
+
+#EXTINF:-1,Convenção das Bruxas (2020)
 http://1111.wf:80/movie/464331343/8857723/269095.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/029cb5124ba8ca87ac200f0e58961a1e8504edbc35be6303cae152e7bac71625.jpg" group-title="Filmes",Megatubarão (2018)
+#EXTINF:-1,Megatubarão (2018)
 http://1111.wf:80/movie/464331343/8857723/1438.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/029cb5124ba8ca87ac200f0e58961a1e8504edbc35be6303cae152e7bac71625.jpg" group-title="Filmes",Megatubarão 2 (2023)
+
+
+#EXTINF:-1,Megatubarão 2 (2023)
 http://1111.wf:80/movie/464331343/8857723/274653.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes",O Tubarão: À Deriva (2022) - LEG
+#EXTINF:-1,O Tubarão: À Deriva (2022) - LEG
 http://1111.wf:80/movie/464331343/8857723/270227.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/11/22/17/29/0692244.jpg" group-title="Filmes",Tubarão: Mar de Sangue (2022)
+#EXTINF:-1,Tubarão: Mar de Sangue (2022)
 http://1111.wf:80/movie/464331343/8857723/235031.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/YIzBP0JU9-UHl2YUGba58xXOK4s=/362x536/https://s2-globo-play.glbimg.com/SC-mPHgNAnDvpAKASUGE9C0ixoI=/https://s2.glbimg.com/HKYlAy_WCi1CaFnaB6xYRQsCiRM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/W/V/Dt44NWQYuClu4FiYOgAw/2019-577-filmes-dexterity-at-do-tubarao-de-3-cabec-oas-poster.jpg" group-title="Filmes",O Ataque do Tubarão de 3 Cabeças (2015)
+#EXTINF:-1,O Ataque do Tubarão de 3 Cabeças (2015)
 http://1111.wf:80/movie/464331343/8857723/4884.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes",Tubarão 4: A Vingança (1987)
+#EXTINF:-1,Tubarão 4: A Vingança (1987)
 http://1111.wf:80/movie/464331343/8857723/6944.mp4
 
-#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/fs.000592/0000592_335.jpg" group-title="Filmes",Tubarão Assassino (2018)
+#EXTINF:-1,Tubarão Assassino (2018)
 http://1111.wf:80/movie/464331343/8857723/1896.mp4
 
-#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/06/Great_White.jpg" group-title="Filmes",Grande Tubarão Branco [L]
+#EXTINF:-1,Grande Tubarão Branco [L]
 http://1111.wf:80/movie/464331343/8857723/144867.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a93852eadc6961c496ad0989bb9a53a43244af127fb8e669cc538adb8a5e050a.jpg" group-title="Filmes",A Fantástica Fábrica de Chocolate (1971)
+#EXTINF:-1,A Fantástica Fábrica de Chocolate (1971)
 http://1111.wf:80/movie/464331343/8857723/4709.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes",A Fantástica Fábrica de Chocolate (2005)
+#EXTINF:-1,A Fantástica Fábrica de Chocolate (2005)
 http://1111.wf:80/movie/464331343/8857723/267037.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/11/30/17/43/3553162.jpg" group-title="Filmes",Wonka (2023) 4K
+#EXTINF:-1,Wonka (2023) 4K
 http://1111.wf:80/movie/464331343/8857723/307059.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/11/30/17/43/3553162.jpg" group-title="Filmes",Wonka (2023)
+#EXTINF:-1,Wonka (2023)
 http://1111.wf:80/movie/464331343/8857723/301326.mp4
 
